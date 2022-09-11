@@ -1,0 +1,5 @@
+mutagen
+gtts
+pillow
+PIL
+libraryArsein
